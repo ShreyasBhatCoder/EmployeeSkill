@@ -1,7 +1,6 @@
-﻿# BlockBusters - Bit and Build
+﻿# TE Mini Project
 Team Members: 
 1. Jonathan Duarte (Team Leader)
 2. Rishabh Gupta
-3. Naman Chouhan
-4. Jaden D'Sa
-5. Shreyas Bhat
+3. Shreyas Bhat
+4. Saikiran Kasturi
